@@ -22,4 +22,4 @@ Nossas soluções integram hardware e software para monitoramento crítico de ri
 - **Walter Filho:** CTO (Software Engineering & IoT)
 
 ---
-"Tecnologia de ponta para a preservação e segurança da maior bacia hidrográfica do mundo." 🌳💎🛰️
+"Tecnologia de ponta para a preservação e segurança da maior bacia hidrográfica do mundo." 🌳💎🛰️.. 
