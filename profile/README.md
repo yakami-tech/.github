@@ -2,7 +2,7 @@
 
 Bem-vindos ao centro de desenvolvimento da **YAKAMI TECH**. Somos uma Deep Tech dedicada à soberania e segurança na Bacia Amazônica através de tecnologias exponenciais.
 
-## 🌊 Foco Estratégico & Projetos de Impacto ##
+## 🌊 Foco Estratégico & Projetos de Impacto 
 
 Nossas soluções integram hardware e software para monitoramento crítico de rios, portos e embarcações:
 
